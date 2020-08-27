@@ -1,9 +1,10 @@
 # stat579-fox
 STAT 579 first repository
 
-- Username: sfox0
+# Username
+- sfox0
 
-Activities in past month:
+# Activities in past month
 1. School
 2. Lift
 3. Video games
